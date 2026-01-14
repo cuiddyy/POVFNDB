@@ -141,6 +141,6 @@ If you find POVFNDB useful for your research, please consider citing our work:
 @article{povfndb2024,
   title={POVFNDB: A Process-Oriented Video Fake News Detection Benchmark},
   author={Your Name},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:https://arxiv.org/abs/2510.24816},
   year={2024}
 }
