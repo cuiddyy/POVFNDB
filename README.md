@@ -1,5 +1,7 @@
 # POVFNDB: Perception, Understanding and Reasoning: A Multimodal Benchmark for Video Fake News Detection
 
+A partial sample of the dataset is provided here, and all training and evaluation datasets will be made open-source later.
+
 ## 📋 Overview
 
 POVFNDB is a comprehensive benchmark designed to evaluate Multimodal Large Language Models (MLLMs) on Video Fake News Detection (VFND) through a process-oriented approach. The benchmark systematically assesses models across three core capabilities: **Perception**, **Understanding**, and **Reasoning**.
