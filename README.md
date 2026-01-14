@@ -138,9 +138,9 @@ Reasoning tasks evaluate MLLMs' ability to synthesize multi-modal information an
 If you find POVFNDB useful for your research, please consider citing our work:
 
 ```bibtex
-@article{povfndb2024,
-  title={POVFNDB: A Process-Oriented Video Fake News Detection Benchmark},
-  author={Your Name},
-  journal={arXiv preprint arXiv:https://arxiv.org/abs/2510.24816},
-  year={2024}
+@article{yakun2025perception,
+  title={Perception, Understanding and Reasoning, A Multimodal Benchmark for Video Fake News Detection},
+  author={Yakun, Cui and Huo, Fushuo and Shi, Weijie and Dai, Juntao and Du, Hang and Zhu, Zhenghao and Han, Sirui and Guo, Yike},
+  journal={arXiv preprint arXiv:2510.24816},
+  year={2025}
 }
