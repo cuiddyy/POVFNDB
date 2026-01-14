@@ -131,24 +131,6 @@ Reasoning tasks evaluate MLLMs' ability to synthesize multi-modal information an
 
 ---
 
-## 💡 Why POVFNDB?
-
-### Motivation
-
-Traditional MLLMs face several challenges in video fake news detection:
-
-1. **Semantic vs. Provenance**: MLLMs are typically pretrained on semantic features rather than provenance distinctions, leading them to treat creator-added content and original shooting footage as equally credible.
-
-2. **Visual Attribute Limitations**: CLIP-based MLLMs struggle with:
-   - Identifying colors of visual content (e.g., text color)
-   - Recognizing spatial locations of text elements
-
-3. **Temporal Understanding**: Limited ability to ground key elements in temporal ranges hinders precise visual information extraction.
-
-POVFNDB addresses these challenges through a comprehensive, process-oriented evaluation framework that systematically tests perception, understanding, and reasoning capabilities essential for effective VFND.
-
----
-
 ## 📖 Citation
 
 If you find POVFNDB useful for your research, please consider citing our work:
