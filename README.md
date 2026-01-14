@@ -1,4 +1,5 @@
-# POVFNDB: A Process-Oriented Video Fake News Detection Benchmark
+# POVFNDB: Perception, Understanding and Reasoning:
+A Multimodal Benchmark for Video Fake News Detection
 
 ## 📋 Overview
 
